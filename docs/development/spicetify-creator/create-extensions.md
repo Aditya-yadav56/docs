@@ -1,6 +1,6 @@
 ---
 title: Create Extensions
-description: 🔨 Creating small addons for Spicetify.
+description: Creating small addons for Spicetify.
 ---
 
 Notes:
